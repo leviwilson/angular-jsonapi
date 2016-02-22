@@ -12,7 +12,7 @@
   },
   "ignore": [
     "demo/",
-    "demo-dist/",
+    "dist-demo/",
     "gulp",
     "src",
     "**/.*",
